@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Game-Portfolio/static/css/main.a19a9604.chunk.css",
+    "main.js": "/Game-Portfolio/static/js/main.ec999831.chunk.js",
+    "main.js.map": "/Game-Portfolio/static/js/main.ec999831.chunk.js.map",
+    "runtime-main.js": "/Game-Portfolio/static/js/runtime-main.585094bd.js",
+    "runtime-main.js.map": "/Game-Portfolio/static/js/runtime-main.585094bd.js.map",
+    "static/js/2.ae0c6c70.chunk.js": "/Game-Portfolio/static/js/2.ae0c6c70.chunk.js",
+    "static/js/2.ae0c6c70.chunk.js.map": "/Game-Portfolio/static/js/2.ae0c6c70.chunk.js.map",
+    "static/js/3.972b9191.chunk.js": "/Game-Portfolio/static/js/3.972b9191.chunk.js",
+    "static/js/3.972b9191.chunk.js.map": "/Game-Portfolio/static/js/3.972b9191.chunk.js.map",
+    "index.html": "/Game-Portfolio/index.html",
+    "static/css/main.a19a9604.chunk.css.map": "/Game-Portfolio/static/css/main.a19a9604.chunk.css.map",
+    "static/js/2.ae0c6c70.chunk.js.LICENSE.txt": "/Game-Portfolio/static/js/2.ae0c6c70.chunk.js.LICENSE.txt",
+    "static/media/Chunyu.c7440637.jpeg": "/Game-Portfolio/static/media/Chunyu.c7440637.jpeg",
+    "static/media/Hanieh.88d0c15c.jpeg": "/Game-Portfolio/static/media/Hanieh.88d0c15c.jpeg",
+    "static/media/index.css": "/Game-Portfolio/static/media/Poppins-Thin.a61eaf4c.ttf",
+    "static/media/Profile.css": "/Game-Portfolio/static/media/TheHero.1e3a9b66.png",
+    "static/media/Yang.c57b88d7.jpeg": "/Game-Portfolio/static/media/Yang.c57b88d7.jpeg",
+    "static/media/Yaorong.f8fec522.jpeg": "/Game-Portfolio/static/media/Yaorong.f8fec522.jpeg",
+    "static/media/Yifei.f3480dac.jpeg": "/Game-Portfolio/static/media/Yifei.f3480dac.jpeg",
+    "static/media/Home.css": "/Game-Portfolio/static/media/bg.d580cd37.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.585094bd.js",
+    "static/js/2.ae0c6c70.chunk.js",
+    "static/css/main.a19a9604.chunk.css",
+    "static/js/main.ec999831.chunk.js"
+  ]
+}
