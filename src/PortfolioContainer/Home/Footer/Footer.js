@@ -11,7 +11,7 @@ export default function Footer() {
                 <thead>
                     <tr>
                     <th scope="col">WEEK</th>
-                    <th scope="col">PALN</th>
+                    <th scope="col">PLAN</th>
                     <th scope="col">TIME(DAYS)</th>
                     </tr>
                 </thead>
