@@ -114,8 +114,8 @@ function Profile(props) {
                         <a href="GDD.pdf" download="gdd.pdf" target="_blank">
                             <button className="btn highlighted-btn">Get GDD</button>
                         </a>
-                        <a className="btn primary-btn" target="_blank" href='https://docs.google.com/spreadsheets/d/1F0f7bjUwphyKpSKR-KyxHOApKdNG8aL-fE3kz9QRXUk/edit#gid=1209633570'>Game Trailer</a>
-                        <a href='https://docs.google.com/spreadsheets/d/1F0f7bjUwphyKpSKR-KyxHOApKdNG8aL-fE3kz9QRXUk/edit#gid=1209633570' target="_blank">
+                        <a className="btn primary-btn" target="_blank" href='https://youtu.be/RKfLoY5t4wk'>Game Trailer</a>
+                        <a href='https://youtu.be/RKfLoY5t4wk' target="_blank">
                             <button className="btn highlighted-btn">Game Play</button>
                         </a>
                     </div>
