@@ -63,32 +63,32 @@ export default function Footer() {
                     </tr>
                     <tr>
                     <td>Week10</td>
-                    <td>Change weapons for the player and deal with different projectiles</td>
+                    <td>Set up the game website. Started designing level 2 for the game. Created a health bar for the boss. Started to develop a new bossfor level 2</td>
                     <td>7</td>
                     </tr>
                     <tr>
                     <td>Week11</td>
-                    <td>Build other levels and program randomly generating environment</td>
+                    <td>Developed save and load functionality. Improved the UI elements.Make the animation smoother</td>
                     <td>7</td>
                     </tr>
                     <tr>
                     <td>Week12</td>
-                    <td>Finish the randomly generating environment this week</td>
+                    <td>Created enemy spawning for level 2. Continued to work on the new Spider boss for level 2</td>
                     <td>7</td>
                     </tr>
                     <tr>
                     <td>Week13</td>
-                    <td>Make the trailer and website</td>
+                    <td>Improved the game website. Added more sound effects and background music. Started designing level 3 and a new Golem boss for level 3. Created a scrolling map for level 3</td>
                     <td>8-10</td>
                     </tr>
                     <tr>
                     <td>Week14</td>
-                    <td>Test and polish our game and GDD</td>
+                    <td>Finished level 3. Tested and polished our game</td>
                     <td>8-10</td>
                     </tr>
                     <tr>
                     <td>Week15</td>
-                    <td>Final Presentation</td>
+                    <td>Completed the GDD. Finished the game website and trailer. Final presentation</td>
                     <td>7</td>
                     </tr>
                 </tbody>
