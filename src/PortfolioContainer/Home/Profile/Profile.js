@@ -105,13 +105,7 @@ function Profile(props) {
                                 />
                            </h1>
                            <div className="profile-role-tagline">
-                                Random Access Memories is a single-player 2D game. The player controls a
-                                soldier who wants to discover important data from a laboratory. The soldier
-                                needs to escape from and will fight against different types of enemies. Different
-                                types of enemies with various weapons and different levels of difficulty will be
-                                shown in the game. The player needs to move around the environment and kill
-                                all the enemies to reach the next level until it finds the data. The player will
-                                use different weapons and learn how to fight against the enemies.
+                           Random Access Memories is a single-player 2D shooting game. The player needs to fight against different types of enemies. Different types of enemies with various weapons and different levels of difficulty will be shown in the game. The player needs to move around the environment and kill all the enemies to reach the next level until it finds the data. The player will explore levels of different environment and learn how to fight against the enemies.
                            </div>
                         </span>
                     </div>
