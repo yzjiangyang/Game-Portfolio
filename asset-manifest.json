@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Game-Portfolio/static/css/main.940606b1.chunk.css",
-    "main.js": "/Game-Portfolio/static/js/main.b27b5f79.chunk.js",
-    "main.js.map": "/Game-Portfolio/static/js/main.b27b5f79.chunk.js.map",
+    "main.css": "/Game-Portfolio/static/css/main.0af68da5.chunk.css",
+    "main.js": "/Game-Portfolio/static/js/main.4cd06ecc.chunk.js",
+    "main.js.map": "/Game-Portfolio/static/js/main.4cd06ecc.chunk.js.map",
     "runtime-main.js": "/Game-Portfolio/static/js/runtime-main.585094bd.js",
     "runtime-main.js.map": "/Game-Portfolio/static/js/runtime-main.585094bd.js.map",
     "static/js/2.ae0c6c70.chunk.js": "/Game-Portfolio/static/js/2.ae0c6c70.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.972b9191.chunk.js": "/Game-Portfolio/static/js/3.972b9191.chunk.js",
     "static/js/3.972b9191.chunk.js.map": "/Game-Portfolio/static/js/3.972b9191.chunk.js.map",
     "index.html": "/Game-Portfolio/index.html",
-    "static/css/main.940606b1.chunk.css.map": "/Game-Portfolio/static/css/main.940606b1.chunk.css.map",
+    "static/css/main.0af68da5.chunk.css.map": "/Game-Portfolio/static/css/main.0af68da5.chunk.css.map",
     "static/js/2.ae0c6c70.chunk.js.LICENSE.txt": "/Game-Portfolio/static/js/2.ae0c6c70.chunk.js.LICENSE.txt",
     "static/media/Chunyu.c7440637.jpeg": "/Game-Portfolio/static/media/Chunyu.c7440637.jpeg",
     "static/media/Hanieh.88d0c15c.jpeg": "/Game-Portfolio/static/media/Hanieh.88d0c15c.jpeg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.585094bd.js",
     "static/js/2.ae0c6c70.chunk.js",
-    "static/css/main.940606b1.chunk.css",
-    "static/js/main.b27b5f79.chunk.js"
+    "static/css/main.0af68da5.chunk.css",
+    "static/js/main.4cd06ecc.chunk.js"
   ]
 }
